@@ -14,4 +14,11 @@ Este repositório contém dois arquivos:
    ```bash
    python calculadora.py
 
+   ## Como executar o script Linux:
+
+1. Dê permissão de execução ao script `.sh`:
+   ```bash
+   chmod +x script.sh
+
+
  
